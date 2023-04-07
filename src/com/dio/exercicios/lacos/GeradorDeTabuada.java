@@ -2,6 +2,8 @@ package com.dio.exercicios.lacos;
 
 import java.util.Scanner;
 
+// Exercício gerador de tabuada
+
 public class GeradorDeTabuada {
     public static void main(String[] args) {
         Scanner num = new Scanner(System.in);

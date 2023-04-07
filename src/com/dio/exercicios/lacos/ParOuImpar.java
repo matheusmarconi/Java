@@ -2,6 +2,8 @@ package com.dio.exercicios.lacos;
 
 import java.util.Scanner;
 
+// Exercício que conta e mostra a quantidade de par e ímpar
+
 public class ParOuImpar {
     public static void main(String[] args) {
 

@@ -2,6 +2,8 @@ package com.dio.exercicios.lacos;
 
 import java.util.Scanner;
 
+// Exercício que calcula o fatorial de um número
+
 public class Fatorial {
     public static void main(String[] args) {
 

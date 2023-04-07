@@ -2,6 +2,8 @@ package com.dio.exercicios.lacos;
 
 import java.util.Scanner;
 
+// Exercicio para escolher uma nota válida entre 0 e 10
+
 public class ExercicioDoWhile {
     public static void main(String[] args) {
 

@@ -3,6 +3,8 @@ package com.dio.exercicios.lacos;
 import java.util.Arrays;
 import java.util.Scanner;
 
+// Calculando o maior valor e a média
+
 public class MaiorEMedia {
     public static void main(String[] args) {
 
